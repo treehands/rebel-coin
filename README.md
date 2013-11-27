@@ -1,0 +1,1 @@
+rebelcoin: a SHA256D version of 'foocoin'
